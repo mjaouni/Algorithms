@@ -7,7 +7,7 @@
 from collections import deque
 
 
-def is_path_exists(maze, start_position, end_position):
+def is_path_exists(maze, start_position, end_position):     # For a matrix of size m*n :Time complexity O(m*n).
     if not maze or not start_position or not end_position:
         return False, []
 

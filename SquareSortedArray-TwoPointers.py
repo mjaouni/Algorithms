@@ -1,4 +1,4 @@
-def sorted_squares(nums):
+def sorted_squares(nums):       # Time complexity O(n)
     left, right = 0, len(nums) - 1  # Initialize two pointers at the start and end of the array
     result = [0] * len(nums)  # Result is an array of the same length as nums, initialized with zeros.
     position = len(nums) - 1  # Start filling the result array from the last position

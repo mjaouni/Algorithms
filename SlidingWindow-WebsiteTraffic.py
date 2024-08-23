@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import time
 
 
-class WebsiteTrafficMonitor:
+class WebsiteTrafficMonitor:  # Time complexity O(n)
     def __init__(self):
         self.visitors = deque()
         self.unique_ips = set()
