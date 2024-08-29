@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ed463f8-4b3e-466b-a353-26eb13c4092a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CatalanNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maze-MatrixTraversal-BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maze-MatrixTraversal-BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SquareSortedArray-TwoPointers.py" beforeDir="false" afterPath="$PROJECT_DIR$/SquareSortedArray-TwoPointers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kv7waZq8pjal47CibU6zr5oYzj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CatalanNumber.executor": "Run",
     "Python.Maze-MatrixTraversal-BFS.executor": "Run",
     "Python.SlidingWindow-WebsiteTraffic.executor": "Run",
     "Python.SquareSortedArray-TwoPointers.executor": "Run",
@@ -36,7 +36,29 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.SquareSortedArray-TwoPointers">
+  <component name="RunManager" selected="Python.CatalanNumber">
+    <configuration name="CatalanNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CatalanNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Maze-MatrixTraversal-BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="ENV_FILES" value="" />
@@ -105,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CatalanNumber" />
         <item itemvalue="Python.SquareSortedArray-TwoPointers" />
         <item itemvalue="Python.Maze-MatrixTraversal-BFS" />
       </list>
